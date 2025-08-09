@@ -99,6 +99,6 @@ as part of the `FUTURE_ML_3` learning module. I learned about NLP, Flask, and bu
 
 ## 🌐 Author
 
-**Mohammed Taha Ahamed**  
-LinkedIn: [www.linkedin.com/in/mohammed-taha-ahamed-02bb26335]  
-GitHub: [https://github.com/MohammedTaha-751]
+**Mohamed Zeeshan**  
+LinkedIn: [https://www.linkedin.com/in/mohamed-zeeshan-8a195b299/]  
+GitHub: [https://github.com/09Phenomenaldata]
